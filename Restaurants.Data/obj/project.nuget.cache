@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C13CDQ4TUzjIyF7Tzlq58q0DblFhYfvbiQdPl3bGbM6rO5qkQGthm8KRTmdJjJ0Key9DQ8iS82I1bmOekwf66g==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restaurants.Data\\Restaurants.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
