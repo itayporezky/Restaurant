@@ -1,0 +1,4 @@
+D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants.Data\obj\Debug\netstandard2.0\Restaurants.Data.csprojAssemblyReference.cache
+D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants.Data\obj\Debug\netstandard2.0\Restaurants.Data.csproj.CoreCompileInputs.cache
+D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants.Data\obj\Debug\netstandard2.0\Restaurants.Data.AssemblyInfoInputs.cache
+D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants.Data\obj\Debug\netstandard2.0\Restaurants.Data.AssemblyInfo.cs
