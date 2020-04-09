@@ -1797,6 +1797,29 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Restaurants.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Restuarants.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Restaurants.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Restaurants.Data.dll": {}
+        }
+      },
+      "Restuarants.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Restuarants.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Restuarants.Core.dll": {}
+        }
       }
     }
   },
@@ -6059,11 +6082,22 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Restaurants.Data/1.0.0": {
+      "type": "project",
+      "path": "../Restaurants.Data/Restaurants.Data.csproj",
+      "msbuildProject": "../Restaurants.Data/Restaurants.Data.csproj"
+    },
+    "Restuarants.Core/1.0.0": {
+      "type": "project",
+      "path": "../Restuarants.Core/Restuarants.Core.csproj",
+      "msbuildProject": "../Restuarants.Core/Restuarants.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.1"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.1",
+      "Restaurants.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6091,7 +6125,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restaurants.Data\\Restaurants.Data.csproj": {
+              "projectPath": "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restaurants.Data\\Restaurants.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
