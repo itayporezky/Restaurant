@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurants", "Restaurants.csproj", "{1204F700-AA8A-41B0-91E7-720B7B2B2FF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restuarants.Core", "..\Restuarants.Core\Restuarants.Core.csproj", "{3C7B19C4-56BC-46F5-B1DF-1BDD5760A24F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurants.Core", "..\Restuarants.Core\Restaurants.Core.csproj", "{3C7B19C4-56BC-46F5-B1DF-1BDD5760A24F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurants.Data", "..\Restaurants.Data\Restaurants.Data.csproj", "{687CBB9B-5B77-4370-8EA3-DA6E3E93222E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurants.Data", "..\Restaurants.Data\Restaurants.Data.csproj", "{687CBB9B-5B77-4370-8EA3-DA6E3E93222E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

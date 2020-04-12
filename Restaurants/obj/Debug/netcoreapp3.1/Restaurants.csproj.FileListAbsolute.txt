@@ -110,6 +110,8 @@ D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants\obj\Debug\netcoreapp3.
 D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants\obj\Debug\netcoreapp3.1\staticwebassets\Restaurants.StaticWebAssets.xml
 D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants\obj\Debug\netcoreapp3.1\Restaurants.genruntimeconfig.cache
 D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants\bin\Debug\netcoreapp3.1\Restaurants.Data.dll
-D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants\bin\Debug\netcoreapp3.1\Restuarants.Core.dll
 D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants\bin\Debug\netcoreapp3.1\Restaurants.Data.pdb
-D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants\bin\Debug\netcoreapp3.1\Restuarants.Core.pdb
+D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants\bin\Debug\netcoreapp3.1\Restaurants.Core.dll
+D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants\bin\Debug\netcoreapp3.1\Restaurants.Core.pdb
+D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
+D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs

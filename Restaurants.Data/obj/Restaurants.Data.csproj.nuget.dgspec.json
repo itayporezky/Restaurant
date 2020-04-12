@@ -27,8 +27,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\Restuarants.Core.csproj": {
-                "projectPath": "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\Restuarants.Core.csproj"
+              "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\Restaurants.Core.csproj": {
+                "projectPath": "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\Restaurants.Core.csproj"
               }
             }
           }
@@ -63,12 +63,12 @@
         }
       }
     },
-    "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\Restuarants.Core.csproj": {
+    "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\Restaurants.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\Restuarants.Core.csproj",
-        "projectName": "Restuarants.Core",
-        "projectPath": "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\Restuarants.Core.csproj",
+        "projectUniqueName": "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\Restaurants.Core.csproj",
+        "projectName": "Restaurants.Core",
+        "projectPath": "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\Restaurants.Core.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\obj\\",
         "projectStyle": "PackageReference",

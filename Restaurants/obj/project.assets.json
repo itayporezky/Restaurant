@@ -1798,27 +1798,27 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Restaurants.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Restaurants.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Restaurants.Core.dll": {}
+        }
+      },
       "Restaurants.Data/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Restuarants.Core": "1.0.0"
+          "Restaurants.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Restaurants.Data.dll": {}
         },
         "runtime": {
           "bin/placeholder/Restaurants.Data.dll": {}
-        }
-      },
-      "Restuarants.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Restuarants.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Restuarants.Core.dll": {}
         }
       }
     }
@@ -6083,15 +6083,15 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "Restaurants.Core/1.0.0": {
+      "type": "project",
+      "path": "../Restuarants.Core/Restaurants.Core.csproj",
+      "msbuildProject": "../Restuarants.Core/Restaurants.Core.csproj"
+    },
     "Restaurants.Data/1.0.0": {
       "type": "project",
       "path": "../Restaurants.Data/Restaurants.Data.csproj",
       "msbuildProject": "../Restaurants.Data/Restaurants.Data.csproj"
-    },
-    "Restuarants.Core/1.0.0": {
-      "type": "project",
-      "path": "../Restuarants.Core/Restuarants.Core.csproj",
-      "msbuildProject": "../Restuarants.Core/Restuarants.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {

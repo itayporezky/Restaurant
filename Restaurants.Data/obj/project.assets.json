@@ -26,14 +26,14 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Restuarants.Core/1.0.0": {
+      "Restaurants.Core/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Restuarants.Core.dll": {}
+          "bin/placeholder/Restaurants.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Restuarants.Core.dll": {}
+          "bin/placeholder/Restaurants.Core.dll": {}
         }
       }
     }
@@ -183,16 +183,16 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Restuarants.Core/1.0.0": {
+    "Restaurants.Core/1.0.0": {
       "type": "project",
-      "path": "../Restuarants.Core/Restuarants.Core.csproj",
-      "msbuildProject": "../Restuarants.Core/Restuarants.Core.csproj"
+      "path": "../Restuarants.Core/Restaurants.Core.csproj",
+      "msbuildProject": "../Restuarants.Core/Restaurants.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
-      "Restuarants.Core >= 1.0.0"
+      "Restaurants.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -221,8 +221,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\Restuarants.Core.csproj": {
-              "projectPath": "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\Restuarants.Core.csproj"
+            "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\Restaurants.Core.csproj": {
+              "projectPath": "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\Restaurants.Core.csproj"
             }
           }
         }

@@ -5,8 +5,8 @@ D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants.Data\obj\Debug\netstan
 D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants.Data\bin\Debug\netstandard2.0\Restaurants.Data.deps.json
 D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants.Data\bin\Debug\netstandard2.0\Restaurants.Data.dll
 D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants.Data\bin\Debug\netstandard2.0\Restaurants.Data.pdb
-D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants.Data\bin\Debug\netstandard2.0\Restuarants.Core.dll
-D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants.Data\bin\Debug\netstandard2.0\Restuarants.Core.pdb
 D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants.Data\obj\Debug\netstandard2.0\Restaurants.Data.csproj.CopyComplete
 D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants.Data\obj\Debug\netstandard2.0\Restaurants.Data.dll
 D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants.Data\obj\Debug\netstandard2.0\Restaurants.Data.pdb
+D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants.Data\bin\Debug\netstandard2.0\Restaurants.Core.dll
+D:\Projects\Pluralsight\.Net Core\Restaurants\Restaurants.Data\bin\Debug\netstandard2.0\Restaurants.Core.pdb

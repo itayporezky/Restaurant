@@ -9,13 +9,18 @@ namespace Restaurants.Data
     public interface IRestaurantData
     {
         IEnumerable<Restaurant> GetRestaurantsByName(string name);
-
+        Restaurant GetById(int id);
     }
 
     public class InMemoryRestaurantData : IRestaurantData
     {
         readonly List<Restaurant> restaurants;
+        
 
+        public Restaurant GetById(int id)
+        {
+            return restaurants.SingleOrDefault(r => r.Id == id);
+        }
         public InMemoryRestaurantData()
         {
             restaurants = new List<Restaurant>()
