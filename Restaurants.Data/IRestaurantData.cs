@@ -10,6 +10,7 @@ namespace Restaurants.Data
     {
         IEnumerable<Restaurant> GetRestaurantsByName(string name);
         Restaurant GetById(int id);
+        Restaurant Add(Restaurant newRestaurant);
         Restaurant Update(Restaurant updatedRestaurant);
         int Commit();
     }
@@ -22,6 +23,14 @@ namespace Restaurants.Data
         public Restaurant GetById(int id)
         {
             return restaurants.SingleOrDefault(r => r.Id == id);
+        }
+
+        public Restaurant Add(Restaurant newRestaurant)
+        {
+            Console.WriteLine(newRestaurant.Id);
+            newRestaurant.Id = restaurants.Max(r => r.Id) + 1;
+            restaurants.Add(newRestaurant);
+            return newRestaurant;
         }
 
         public Restaurant Update(Restaurant updatedRestaurant)
