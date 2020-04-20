@@ -8,6 +8,12 @@ namespace Restaurants.Data
 {
     public class RestaurantsDbContext : DbContext
     {
+        public RestaurantsDbContext(DbContextOptions<RestaurantsDbContext> options)
+            : base(options)
+        {
+            //removeme
+        }
+
         public DbSet<Restaurant> Restaurants { get; set; }
     }
 }
