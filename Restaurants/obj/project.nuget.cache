@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zG6TrqymY2pQUfSHylmKMp2MSgwG0Gg9hRIf4W4C2Iprsbn3np3h+jwdW3T3HYnovfKimr11WK4W+KQb7KVurw==",
+  "dgSpecHash": "VEsUdYP2JJGkuw9di9IApH667G5yTZjmrpqOjZyS0RDCATSjDl83073PP9Zsz99/UvH5DYQ9zujsVhPMehAnPg==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restaurants\\Restaurants.csproj",
   "expectedPackageFiles": [
@@ -51,6 +51,7 @@
     "C:\\Users\\PC\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.composition\\1.0.31\\system.composition.1.0.31.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.composition.attributedmodel\\1.0.31\\system.composition.attributedmodel.1.0.31.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.composition.convention\\1.0.31\\system.composition.convention.1.0.31.nupkg.sha512",

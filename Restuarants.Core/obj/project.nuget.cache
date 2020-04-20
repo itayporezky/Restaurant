@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+kTpFpiUxVxpBsBNHgSTKbPqh7b7XciprkGyUz1BKldedIccj5VGMhFEY72Jc3Kyi2Fy3tWMGpQwEKChXxCoHA==",
+  "dgSpecHash": "CQ5F3bzGUz53Ult2v4H/Pk4xvyqwY+kI6FRKWBms/wLYjPa7jEp/0mgN2AH9BUxGsADHNeBsYyaf/qWHd4fbew==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Pluralsight\\.Net Core\\Restaurants\\Restuarants.Core\\Restaurants.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

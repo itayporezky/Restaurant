@@ -12,4 +12,8 @@
     <ProjectReference Include="..\Restaurants.Data\Restaurants.Data.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
 </Project>
