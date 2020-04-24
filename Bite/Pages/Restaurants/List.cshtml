@@ -17,29 +17,9 @@
     </div>
 </form>
 
-<table class="table">
-    @foreach (var restaurant in Model.Restaurants)
-    {
-        <tr>
-            <td>@restaurant.Name</td>
-            <td>@restaurant.Location</td>
-            <td>@restaurant.Cuisine</td>
-            <td>
-                <a class="btn btn-lg"
-                   asp-page="./Detail" asp-route-restaurantId="@restaurant.Id">
-                    <i class="fas fa-search-plus"></i>
-                </a>
-                <a class="btn btn-lg"
-                   asp-page="./Edit" asp-route-restaurantId="@restaurant.Id">
-                    <i class="far fa-edit"></i>
-                </a>
-                <a class="btn btn-lg"
-                   asp-page="./Delete" asp-route-restaurantId="@restaurant.Id">
-                    <i class="far fa-trash-alt"></i>
-                </a>
-            </td>
-        </tr>
-    }
-</table>
+@foreach(var restaurant in Model.Restaurants)
+{
+    <partial name="_Summary" model="restaurant" />
+}
 
 <a class="btn btn-primary" asp-page="./Edit">Add new</a>
