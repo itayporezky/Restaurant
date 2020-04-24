@@ -297,3 +297,5 @@ D:\Projects\Pluralsight\Bite site\Bite\obj\Debug\netcoreapp3.1\staticwebassets\B
 D:\Projects\Pluralsight\Bite site\Bite\obj\Debug\netcoreapp3.1\Bite.dll
 D:\Projects\Pluralsight\Bite site\Bite\obj\Debug\netcoreapp3.1\Bite.pdb
 D:\Projects\Pluralsight\Bite site\Bite\obj\Debug\netcoreapp3.1\Bite.genruntimeconfig.cache
+D:\Projects\Pluralsight\Bite site\Bite\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\_Summary.cshtml.g.cs
+D:\Projects\Pluralsight\Bite site\Bite\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs
