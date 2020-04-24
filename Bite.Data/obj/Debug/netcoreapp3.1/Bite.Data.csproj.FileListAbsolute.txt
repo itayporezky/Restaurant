@@ -1,0 +1,24 @@
+D:\Projects\Pluralsight\Bite.Data\bin\Debug\netcoreapp3.1\Bite.Data.deps.json
+D:\Projects\Pluralsight\Bite.Data\bin\Debug\netcoreapp3.1\Bite.Data.dll
+D:\Projects\Pluralsight\Bite.Data\bin\Debug\netcoreapp3.1\Bite.Data.pdb
+D:\Projects\Pluralsight\Bite.Data\bin\Debug\netcoreapp3.1\Bite.Core.dll
+D:\Projects\Pluralsight\Bite.Data\bin\Debug\netcoreapp3.1\Bite.Core.pdb
+D:\Projects\Pluralsight\Bite.Data\obj\Debug\netcoreapp3.1\Bite.Data.csprojAssemblyReference.cache
+D:\Projects\Pluralsight\Bite.Data\obj\Debug\netcoreapp3.1\Bite.Data.csproj.CoreCompileInputs.cache
+D:\Projects\Pluralsight\Bite.Data\obj\Debug\netcoreapp3.1\Bite.Data.AssemblyInfoInputs.cache
+D:\Projects\Pluralsight\Bite.Data\obj\Debug\netcoreapp3.1\Bite.Data.AssemblyInfo.cs
+D:\Projects\Pluralsight\Bite.Data\obj\Debug\netcoreapp3.1\Bite.Data.csproj.CopyComplete
+D:\Projects\Pluralsight\Bite.Data\obj\Debug\netcoreapp3.1\Bite.Data.dll
+D:\Projects\Pluralsight\Bite.Data\obj\Debug\netcoreapp3.1\Bite.Data.pdb
+D:\Projects\Pluralsight\Bite site\Bite.Data\bin\Debug\netcoreapp3.1\Bite.Data.deps.json
+D:\Projects\Pluralsight\Bite site\Bite.Data\bin\Debug\netcoreapp3.1\Bite.Data.dll
+D:\Projects\Pluralsight\Bite site\Bite.Data\bin\Debug\netcoreapp3.1\Bite.Data.pdb
+D:\Projects\Pluralsight\Bite site\Bite.Data\bin\Debug\netcoreapp3.1\Bite.Core.dll
+D:\Projects\Pluralsight\Bite site\Bite.Data\bin\Debug\netcoreapp3.1\Bite.Core.pdb
+D:\Projects\Pluralsight\Bite site\Bite.Data\obj\Debug\netcoreapp3.1\Bite.Data.csprojAssemblyReference.cache
+D:\Projects\Pluralsight\Bite site\Bite.Data\obj\Debug\netcoreapp3.1\Bite.Data.csproj.CoreCompileInputs.cache
+D:\Projects\Pluralsight\Bite site\Bite.Data\obj\Debug\netcoreapp3.1\Bite.Data.AssemblyInfoInputs.cache
+D:\Projects\Pluralsight\Bite site\Bite.Data\obj\Debug\netcoreapp3.1\Bite.Data.AssemblyInfo.cs
+D:\Projects\Pluralsight\Bite site\Bite.Data\obj\Debug\netcoreapp3.1\Bite.Data.csproj.CopyComplete
+D:\Projects\Pluralsight\Bite site\Bite.Data\obj\Debug\netcoreapp3.1\Bite.Data.dll
+D:\Projects\Pluralsight\Bite site\Bite.Data\obj\Debug\netcoreapp3.1\Bite.Data.pdb

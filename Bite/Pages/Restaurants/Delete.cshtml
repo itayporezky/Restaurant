@@ -1,0 +1,14 @@
+﻿@page "{restaurantId}"
+@model Bite.Pages.Restaurants.DeleteModel
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="alert alert-danger">
+    Are you sure you want to delete @Model.Restaurant.Name
+</div>
+<form method="post">
+    <button class="btn btn-danger">Yes!</button>
+    <a asp-page="List" class="btn btn-default">Cancel</a>
+</form>
+

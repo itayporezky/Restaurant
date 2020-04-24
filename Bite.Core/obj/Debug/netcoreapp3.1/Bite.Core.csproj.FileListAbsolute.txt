@@ -1,0 +1,17 @@
+D:\Projects\Pluralsight\Bite.Core\bin\Debug\netcoreapp3.1\Bite.Core.deps.json
+D:\Projects\Pluralsight\Bite.Core\bin\Debug\netcoreapp3.1\Bite.Core.dll
+D:\Projects\Pluralsight\Bite.Core\bin\Debug\netcoreapp3.1\Bite.Core.pdb
+D:\Projects\Pluralsight\Bite.Core\obj\Debug\netcoreapp3.1\Bite.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Pluralsight\Bite.Core\obj\Debug\netcoreapp3.1\Bite.Core.AssemblyInfoInputs.cache
+D:\Projects\Pluralsight\Bite.Core\obj\Debug\netcoreapp3.1\Bite.Core.AssemblyInfo.cs
+D:\Projects\Pluralsight\Bite.Core\obj\Debug\netcoreapp3.1\Bite.Core.dll
+D:\Projects\Pluralsight\Bite.Core\obj\Debug\netcoreapp3.1\Bite.Core.pdb
+D:\Projects\Pluralsight\Bite site\Bite.Core\bin\Debug\netcoreapp3.1\Bite.Core.deps.json
+D:\Projects\Pluralsight\Bite site\Bite.Core\bin\Debug\netcoreapp3.1\Bite.Core.dll
+D:\Projects\Pluralsight\Bite site\Bite.Core\bin\Debug\netcoreapp3.1\Bite.Core.pdb
+D:\Projects\Pluralsight\Bite site\Bite.Core\obj\Debug\netcoreapp3.1\Bite.Core.csprojAssemblyReference.cache
+D:\Projects\Pluralsight\Bite site\Bite.Core\obj\Debug\netcoreapp3.1\Bite.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Pluralsight\Bite site\Bite.Core\obj\Debug\netcoreapp3.1\Bite.Core.AssemblyInfoInputs.cache
+D:\Projects\Pluralsight\Bite site\Bite.Core\obj\Debug\netcoreapp3.1\Bite.Core.AssemblyInfo.cs
+D:\Projects\Pluralsight\Bite site\Bite.Core\obj\Debug\netcoreapp3.1\Bite.Core.dll
+D:\Projects\Pluralsight\Bite site\Bite.Core\obj\Debug\netcoreapp3.1\Bite.Core.pdb

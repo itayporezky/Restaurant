@@ -1,9 +1,0 @@
-D:\Projects\Pluralsight\.Net Core\Restaurants\Restuarants.Core\bin\Debug\netstandard2.0\Restuarants.Core.deps.json
-D:\Projects\Pluralsight\.Net Core\Restaurants\Restuarants.Core\bin\Debug\netstandard2.0\Restuarants.Core.dll
-D:\Projects\Pluralsight\.Net Core\Restaurants\Restuarants.Core\bin\Debug\netstandard2.0\Restuarants.Core.pdb
-D:\Projects\Pluralsight\.Net Core\Restaurants\Restuarants.Core\obj\Debug\netstandard2.0\Restuarants.Core.csprojAssemblyReference.cache
-D:\Projects\Pluralsight\.Net Core\Restaurants\Restuarants.Core\obj\Debug\netstandard2.0\Restuarants.Core.csproj.CoreCompileInputs.cache
-D:\Projects\Pluralsight\.Net Core\Restaurants\Restuarants.Core\obj\Debug\netstandard2.0\Restuarants.Core.AssemblyInfoInputs.cache
-D:\Projects\Pluralsight\.Net Core\Restaurants\Restuarants.Core\obj\Debug\netstandard2.0\Restuarants.Core.AssemblyInfo.cs
-D:\Projects\Pluralsight\.Net Core\Restaurants\Restuarants.Core\obj\Debug\netstandard2.0\Restuarants.Core.dll
-D:\Projects\Pluralsight\.Net Core\Restaurants\Restuarants.Core\obj\Debug\netstandard2.0\Restuarants.Core.pdb

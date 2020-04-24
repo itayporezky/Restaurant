@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bite", "Bite.csproj", "{53244BD6-91BD-4013-8721-85FD0B98D44C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bite.Core", "..\Bite.Core\Bite.Core.csproj", "{F6F3214F-4A49-43E6-87CA-E82FDA07AA21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bite.Data", "..\Bite.Data\Bite.Data.csproj", "{97679393-8C5D-48BD-8DCA-81A0FC74FD93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53244BD6-91BD-4013-8721-85FD0B98D44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53244BD6-91BD-4013-8721-85FD0B98D44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53244BD6-91BD-4013-8721-85FD0B98D44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53244BD6-91BD-4013-8721-85FD0B98D44C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F3214F-4A49-43E6-87CA-E82FDA07AA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F3214F-4A49-43E6-87CA-E82FDA07AA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F3214F-4A49-43E6-87CA-E82FDA07AA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F3214F-4A49-43E6-87CA-E82FDA07AA21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97679393-8C5D-48BD-8DCA-81A0FC74FD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97679393-8C5D-48BD-8DCA-81A0FC74FD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97679393-8C5D-48BD-8DCA-81A0FC74FD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97679393-8C5D-48BD-8DCA-81A0FC74FD93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF3F622C-3ECA-4537-A721-53B315F0D526}
+	EndGlobalSection
+EndGlobal
