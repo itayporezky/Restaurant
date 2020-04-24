@@ -11,7 +11,7 @@ namespace Restaurants.Data
         public RestaurantsDbContext(DbContextOptions<RestaurantsDbContext> options)
             : base(options)
         {
-            //in test now
+            
         }
 
         public DbSet<Restaurant> Restaurants { get; set; }
