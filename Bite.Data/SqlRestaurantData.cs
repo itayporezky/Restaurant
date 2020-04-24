@@ -38,7 +38,12 @@ namespace Bite.Data
 
         public Restaurant GetById(int id)
         {
-            return (db.Restaurants.Find(id));
+            return db.Restaurants.Find(id);
+        }
+
+        public int GetCountOfRestaurants()
+        {
+            return db.Restaurants.Count();
         }
 
         public IEnumerable<Restaurant> GetRestaurantsByName(string name)
