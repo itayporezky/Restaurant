@@ -1,8 +1,8 @@
-# Restaurant 
+# Bite
 Following: 
 ASP.NET Core Fundamentals
 By Scott Allen
 
-On pluralsight site.
+Building restaurants viewing site
 
-.
+From pluralsight site.
