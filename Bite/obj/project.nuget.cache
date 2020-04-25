@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3KQLeISLbPImScuHonR5l9bgSXPppFYOMjH45/QhOrp5z0ZA3fgWP9qQsA4vaFBRxkZlP4mKvVJexblg0K008g==",
+  "dgSpecHash": "y+cETek1AQWmIzmCuv9OYFfLLQVS9aObZnVVKHdz94JzesgOq4RwH6/55lGbmS796GSlXKnykCTA2BwBogU3Mg==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Pluralsight\\Bite site\\Bite\\Bite.csproj",
   "expectedPackageFiles": [
@@ -56,6 +56,7 @@
     "C:\\Users\\PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\nuget.frameworks\\4.7.0\\nuget.frameworks.4.7.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\odetocode.usenodemodules\\3.0.0\\odetocode.usenodemodules.3.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

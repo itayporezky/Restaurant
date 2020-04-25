@@ -319,5 +319,8 @@ D:\Projects\Pluralsight\Bite site\Bite\bin\Debug\netcoreapp3.1\runtimes\win-arm\
 D:\Projects\Pluralsight\Bite site\Bite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 D:\Projects\Pluralsight\Bite site\Bite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 D:\Projects\Pluralsight\Bite site\Bite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Projects\Pluralsight\Bite site\Bite\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Projects\Pluralsight\Bite site\Bite\bin\Debug\netcoreapp3.1\package.json
+D:\Projects\Pluralsight\Bite site\Bite\bin\Debug\netcoreapp3.1\OdeToCode.UseNodeModules.dll
 D:\Projects\Pluralsight\Bite site\Bite\obj\Debug\netcoreapp3.1\Bite.csproj.CoreCompileInputs.cache
 D:\Projects\Pluralsight\Bite site\Bite\obj\Debug\netcoreapp3.1\Bite.MvcApplicationPartsAssemblyInfo.cache
